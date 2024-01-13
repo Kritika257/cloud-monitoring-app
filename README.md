@@ -1,2 +1,3 @@
-# Cloud Resource Monitoring Python App on K8s!
-Cloud Monitoring app using Python
+# Python Application to monitor system resources
+
+ Python Application to monitor system resources and Deploy on AWS EKS using AWS SDK Python(boto3) module.
